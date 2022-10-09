@@ -165,7 +165,7 @@ input[type="submit"] {
   -ms-transition: all 0.4s linear;
   -o-transition: all 0.4s linear;
   transition: all 0.4s linear;
-  background-color: #07294d;
+  background-color: #07294d;  
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .main-btn {
@@ -919,7 +919,7 @@ input[type="submit"] {
   }
 }
 .navigation .nav-menus-wrapper .nav-menu li + li {
-  margin-left: 40px;
+  margin-left: 35px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .navigation .nav-menus-wrapper .nav-menu li + li {
@@ -1443,11 +1443,11 @@ input[type="submit"] {
   margin-right: 18px;
 }
 .slider-content .slider-btn li .main-btn {
-  width: 165px;
+  width: 210px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .slider-content .slider-btn li .main-btn {
-    width: 145px;
+    width: 185px;
   }
 }
 @media (max-width: 767px) {
